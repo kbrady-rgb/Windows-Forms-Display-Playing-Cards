@@ -1,0 +1,26 @@
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\bin\Debug\Cards.exe
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\bin\Debug\Cards.pdb
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.exe
+G:\Books\C#\Student Sample Programs\Chap06\Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Kabrina\Documents\C#\Cards and Images\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.Cards.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.Cards.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 6\CardsBrady\Cards and Images\Cards\Cards\obj\x86\Debug\Cards.pdb
